@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\ConversionService.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\ConversionService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\ConversionService.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\ConversionService.Core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\ConversionService.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\bin\Debug\net6.0\ConversionService.Core.deps.json
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\bin\Debug\net6.0\ConversionService.Core.dll
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\bin\Debug\net6.0\ConversionService.Core.pdb
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\ConversionService.Core.dll
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\refint\ConversionService.Core.dll
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\ConversionService.Core.pdb
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Core\obj\Debug\net6.0\ref\ConversionService.Core.dll

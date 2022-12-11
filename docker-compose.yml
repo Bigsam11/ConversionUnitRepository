@@ -1,0 +1,38 @@
+version: '3.4'
+
+networks:
+  converterService:
+
+
+services:
+      postgres_database:
+            image: postgres:latest
+            environment:
+                - POSTGRES_HOST=postgres_database
+                - POSTGRES_USER=postgres
+                - POSTGRES_PASSWORD=Paper1111
+                - POSTGRES_DB=Bulbasur
+            ports:
+                - "5432:5432"
+            restart: unless-stopped
+            volumes:
+                - database-data:/var/lib/postgresql/data/
+            networks:
+                - converterService
+      
+      conversionservice.api:
+            image: ${DOCKER_REGISTRY-}conversionserviceapi
+            build:
+               context: .
+               dockerfile: ConversionAPI/Dockerfile
+            depends_on:
+                - 'postgres_database'
+            networks:
+                - converterService
+            
+            
+volumes:
+  database-data:
+  
+   
+

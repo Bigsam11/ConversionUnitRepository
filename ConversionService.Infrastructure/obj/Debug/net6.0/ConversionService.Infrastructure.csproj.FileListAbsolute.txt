@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ConversionService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ConversionService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ConversionService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ConversionService.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ConversionService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\bin\Debug\net6.0\ConversionService.Infrastructure.deps.json
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\bin\Debug\net6.0\ConversionService.Infrastructure.dll
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\bin\Debug\net6.0\ConversionService.Infrastructure.pdb
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\bin\Debug\net6.0\ConversionService.Core.dll
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\bin\Debug\net6.0\ConversionService.Core.pdb
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ConversionService.Infrastructure.csproj.CopyComplete
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ConversionService.Infrastructure.dll
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\refint\ConversionService.Infrastructure.dll
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ConversionService.Infrastructure.pdb
+C:\Users\DELL\source\repos\ConversionAPI\ConversionService.Infrastructure\obj\Debug\net6.0\ref\ConversionService.Infrastructure.dll
